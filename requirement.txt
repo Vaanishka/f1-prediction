@@ -1,0 +1,16 @@
+# --- Data Collection & Processing ---
+fastf1>=3.4.0        # The gold standard for F1 telemetry and timing
+requests>=2.31.0     # For calling the Jolpica/Ergast API
+pandas>=2.1.0        # Data manipulation
+numpy>=1.26.0        # Numerical operations
+
+# --- Machine Learning & Tuning ---
+scikit-learn>=1.3.0  # Basic ML tools and preprocessing
+xgboost>=2.0.0       # The main prediction model
+optuna>=3.4.0        # Bayesian hyperparameter tuning (industry standard)
+
+# --- Deployment & API (FastAPI) ---
+fastapi>=0.104.0     # Web framework for your prediction API
+uvicorn>=0.24.0      # The server to run your API
+joblib>=1.3.0        # For saving and loading your trained model
+python-dotenv>=1.0.0 # To manage environment variables safely
