@@ -1,0 +1,17 @@
+{
+    "physics_constants": {
+        "fuel_weight_penalty_per_10kg": 0.3,
+        "average_fuel_burn_per_lap_kg": 1.72,
+        "dirty_air_performance_loss_pct": 0.04,
+        "ideal_track_temp_celsius": 35.0
+    },
+    "tire_offsets": {
+        "soft_to_medium_delta": 0.6,
+        "medium_to_hard_delta": 0.8
+    },
+    "degradation_coefficients": {
+        "soft_slope": 0.08,
+        "medium_slope": 0.05,
+        "hard_slope": 0.03
+    }
+}
