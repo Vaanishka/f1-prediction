@@ -13,5 +13,16 @@
         "soft_slope": 0.08,
         "medium_slope": 0.05,
         "hard_slope": 0.03
+    },
+
+    "regs_2025": {
+        "min_weight": 798,
+        "aero_efficiency": 1.0
+    },
+    "regs_2026": {
+        "min_weight": 768,
+        "aero_efficiency": 1.15,
+        "active_aero_bonus": 0.4
     }
+    
 }
