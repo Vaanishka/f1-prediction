@@ -1,7 +1,7 @@
 # f1-prediction
 # 🏎️ F1 Race Position Predictor - Complete Pipeline
 
-## ✅ All Your Objectives Implemented
+## ✅ Objectives Implemented
 
 ### Your Requirements → Implementation Status
 
